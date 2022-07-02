@@ -1,0 +1,16 @@
+.url
+{
+    width: 50%;
+    border-width: 5px;
+}
+
+.instruction
+{
+    color: red;
+}
+
+.input-text
+{
+    background-color: black;
+    color: white;
+}
